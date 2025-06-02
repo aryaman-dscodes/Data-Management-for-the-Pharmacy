@@ -1,7 +1,7 @@
 # Data-Management-for-the-Pharmacy
 ## Academic Project using VBScript
 (15/12/22 - 10/04/23)
-### Intoduction of the project :-
+### Introduction of the project :-
 Basicaly this project *"DATA MANAGEMENT FOR THE PHARMACY"* is fully automated window based system. This software manage all manual task like maintaining medicine database, sales and purchases and current available stocks in database inform of automated system.
 
 The current manual system has problem like
